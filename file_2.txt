@@ -1,2 +1,3 @@
 The weather is nice
 it is sunny today
+new text after the clone wars
